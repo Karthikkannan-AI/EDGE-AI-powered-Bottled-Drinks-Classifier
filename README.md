@@ -2,14 +2,14 @@
 
 ## Table of Contents ##
 
-* [Introduction]()
-* [Application]()
-* [Solution]()
-  * [Solution Workflow]()
-  * [Evaluation of the Proposed Solution]()
-* [Conclusion]()
-* [Contact Us]()
-* [Rebounding from COVID-19]()
+* [Introduction](https://github.com/Karthikkannan-AI/EDGE-AI-powered-Bottled-Drinks-Classifier#introduction)
+* [Application](https://github.com/Karthikkannan-AI/EDGE-AI-powered-Bottled-Drinks-Classifier#application)
+* [Solution](https://github.com/Karthikkannan-AI/EDGE-AI-powered-Bottled-Drinks-Classifier#solution)
+  * [Solution Workflow](https://github.com/Karthikkannan-AI/EDGE-AI-powered-Bottled-Drinks-Classifier#solution-workflow)
+  * [Evaluation of the Proposed Solution](https://github.com/Karthikkannan-AI/EDGE-AI-powered-Bottled-Drinks-Classifier#evaluation-of-the-proposed-solution)
+* [Conclusion](https://github.com/Karthikkannan-AI/EDGE-AI-powered-Bottled-Drinks-Classifier#conclusion)
+* [Contact Us](https://github.com/Karthikkannan-AI/EDGE-AI-powered-Bottled-Drinks-Classifier#contact-us)
+* [Rebounding from COVID-19](https://github.com/Karthikkannan-AI/EDGE-AI-powered-Bottled-Drinks-Classifier#rebounding-from-covid-19)
 
 - - - -
 
@@ -39,7 +39,7 @@
 
 ### Evaluation of the Proposed Solution ###
 
-<a href="https://youtu.be/y2CDhSv_kig" target="_blank"><img src=""/></a> 
+<a href="https://youtu.be/y2CDhSv_kig" target="_blank"><img src="https://github.com/Karthikkannan-AI/EDGE-AI-powered-Bottled-Drinks-Classifier/blob/main/resources/Bottled%20Drinks%20Classifier%20Video.png"/></a> 
 
 - - - -
 
@@ -67,7 +67,7 @@ __Email : karthik@etopdigital.com / sales@etopdigital.com__
           
 __Phone : 9944865029__
 
-<img src="">
+<img src="https://github.com/Karthikkannan-AI/EDGE-AI-powered-Bottled-Drinks-Classifier/blob/main/resources/About%20ETOP%20Technologies_Github.png">
 
 - - - -
 
@@ -84,4 +84,4 @@ This work is part of our journey towards Recovery and Reinvention.
 #EtopTechnologies #Artificialintelligence #DeepLearning #MachineLearning
 
 
-<img src="">
+<img src="https://github.com/Karthikkannan-AI/EDGE-AI-powered-Bottled-Drinks-Classifier/blob/main/resources/CoronaPandemic.jpeg">
