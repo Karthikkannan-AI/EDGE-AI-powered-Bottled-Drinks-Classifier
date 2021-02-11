@@ -27,7 +27,7 @@
 
 ## Solution ##
 
-
+<img src="https://github.com/Karthikkannan-AI/EDGE-AI-powered-Bottled-Drinks-Classifier/blob/main/resources/Bottles.jpg">
 
 - - - -
 
