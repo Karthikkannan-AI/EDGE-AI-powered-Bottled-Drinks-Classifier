@@ -33,7 +33,7 @@
 
 ### Solution Workflow ###
 
-
+<img src="https://github.com/Karthikkannan-AI/EDGE-AI-powered-Bottled-Drinks-Classifier/blob/main/resources/Bottle%20Classification%20Workflow.png">
 
 - - - -
 
