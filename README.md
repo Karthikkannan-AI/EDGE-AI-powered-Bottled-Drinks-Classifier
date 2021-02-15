@@ -2,11 +2,11 @@
 
 ## Table of Contents ##
 
-* [About the Project]()
-  * [AI on the Edge]()
-  * [Application Usecases]()
+* [About the Project](https://github.com/Karthikkannan-AI/EDGE-AI-powered-Bottled-Drinks-Classifier#about-the-project)
+  * [AI on the Edge](https://github.com/Karthikkannan-AI/EDGE-AI-powered-Bottled-Drinks-Classifier#ai-on-the-edge)
+  * [Application Usecases](https://github.com/Karthikkannan-AI/EDGE-AI-powered-Bottled-Drinks-Classifier#application-usecases-of-computer-vision-powered-by-edge-ai)
 * [Solution](https://github.com/Karthikkannan-AI/EDGE-AI-powered-Bottled-Drinks-Classifier#solution)
-  * [Data Collection]()
+  * [Data Collection](https://github.com/Karthikkannan-AI/EDGE-AI-powered-Bottled-Drinks-Classifier#data-collection)
   * [Solution Workflow](https://github.com/Karthikkannan-AI/EDGE-AI-powered-Bottled-Drinks-Classifier#solution-workflow)
   * [Evaluation of the Proposed Solution](https://github.com/Karthikkannan-AI/EDGE-AI-powered-Bottled-Drinks-Classifier#evaluation-of-the-proposed-solution)
 * [Conclusion](https://github.com/Karthikkannan-AI/EDGE-AI-powered-Bottled-Drinks-Classifier#conclusion)
