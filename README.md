@@ -70,7 +70,7 @@ We have taken thousands of Images of the Bottled Drinks in different lighting co
 
 ### Evaluation of the Proposed Solution ###
 
-<a href="https://youtu.be/CWDyYrOT6tE" target="_blank"><img src="https://github.com/Karthikkannan-AI/EDGE-AI-powered-Bottled-Drinks-Classifier/blob/main/resources/Bottled%20Drinks%20Classifier%20Video.png"/></a> 
+<a href="https://youtu.be/Mi0p0bji6TI" target="_blank"><img src="https://github.com/Karthikkannan-AI/EDGE-AI-powered-Bottled-Drinks-Classifier/blob/main/resources/Bottled%20Drinks%20Classifier%20Video.png"/></a> 
 
 - - - -
 
